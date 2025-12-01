@@ -31,7 +31,7 @@ npm run dev
 
 Frontend URL: `http://localhost:5173`
 
-Vite is configured to **proxy**-uje all `/api` calls directly to the backend server running on port 4000.
+Vite is configured to **proxy** all `/api` calls directly to the backend server running on port 4000.
 
 ## 3. MVP Features Overview
 
